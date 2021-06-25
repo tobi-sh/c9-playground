@@ -1,0 +1,4 @@
+Der Schluss, der von einigen daraus gezogen wird, ist: Windows hat jetzt einen Linux-Kernel dabei, es kann also eine softe Migration von Windows-Programmen hin zu Linux geben. Weil die Windows-10-Updates in den letzten Jahren immer wieder große Probleme machten und hastig nachgebessert werden mussten, würde es sich für Microsoft eigentlich nicht mehr lohnen, den Windows-Kernel weiter zu entwickeln, zu patchen und anderweitig zu betreuen, wenn man genauso einfach nur den kostenlosen Kernel von Linux ausliefern könnte - sobald alle eigenen Programme portiert sind. Die Windows-Version, bei der das passiert, wäre dann eine rein auf Linux basierende Windows-Version - damit wäre der Krieg der Betriebssysteme endgültig beendet - mit Linux als Gewinner -, so die Argumentation.
+
+Sieht man sich die genannten Argumente genauer an, zeigt sich jedoch, dass sie sich entweder nicht halten lassen oder schlicht irrelevant sind.
+
